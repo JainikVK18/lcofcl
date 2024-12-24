@@ -26,10 +26,9 @@
     const urlParams = new URLSearchParams(window.location.search);
     const id = urlParams.get("id");
 
-    const m3u8Link = m3u8Links[id];
-
-    if (m3u8Link) {
-      document.getElementById("player").src = https://livecrichdm3u8player.pages.dev/?dtv=${encodeURIComponent(m3u8Link)};
+    if (id && m3u8Links[id]) {
+      const m3u8Link = m3u8Links[id];
+      document.getElementById("player").src = `https://livecrichdm3u8player.pages.dev/?dtv=${encodeURIComponent(m3u8Link)}`;
     } else {
       document.body.innerHTML = "<h2>Error: Invalid or missing M3U8 ID</h2>";
     }
