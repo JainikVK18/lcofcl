@@ -10,4 +10,5 @@ const m3u8Links = {
   9: "https://example.com/path-to-m3u81.m3u8",
   10: "https://example.com/path-to-m3u82.m3u8",
   11:"https://vkvsd63.okcdn.ru/cmaf/7479532849895/sig/uhUFbrFWuPU/srcIp/13.203.46.153/urls/185.226.52.66/expires/1735589784250/clientType/13/srcAg/CHROME/fromCache/1/mid/9171296398311/id/7479532849895/get/hls_9171296398311.cGxuCiq8K1E.m3u8",
+  12:"https://vkvsd63.okcdn.ru/cmaf/7465941011175/sig/WoppvWS6x7o/srcIp/52.66.211.175/urls/185.226.53.94/expires/1735590625008/clientType/13/srcAg/CHROME/fromCache/1/mid/9161388141543/id/7465941011175/get/hls_9161388141543.yi5Gc1pbmz0.m3u8",
 };
