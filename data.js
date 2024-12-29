@@ -12,4 +12,5 @@ const m3u8Links = {
   11:"https://vkvsd55.okcdn.ru/cmaf/7517976988391/sig/qhLpbAnnU5o/srcIp/13.203.71.74/urls/45.136.22.21/expires/1735811040971/clientType/13/srcAg/CHROME/fromCache/1/mid/9200744410087/id/7517976988391/get/hls_9200744410087.GYAkhiUddgo.m3u8",
   12:"https://vkvsd55.okcdn.ru/cmaf/7465941011175/sig/uvJeXZhUciA/srcIp/13.201.182.224/urls/45.136.21.63/expires/1735856029357/clientType/13/srcAg/CHROME/fromCache/1/mid/9161388141543/id/7465941011175/get/hls_9161388141543.yi5Gc1pbmz0.m3u8",
   13:"https://m118753.protect-cdn.net/live/m1-index.m3u8",
+  14:"https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1735564189~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=067ea01e0d7a0360b0f66b85e9a8e9b03be0758f0c280c0588f3c362c8af241d/index.m3u8",
 };
