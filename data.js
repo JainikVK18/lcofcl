@@ -11,4 +11,5 @@ const m3u8Links = {
   10:"https://vkvsd14.okcdn.ru/cmaf/7517976988391/sig/55r6yQdd0yw/expires/1736011005660/srcIp/13.127.152.182/urls/185.226.53.65/clientType/13/srcAg/CHROME/mid/9200744410087/get/hls_9200744410087.GYAkhiUddgo.m3u8",
   11:"https://vkvsd63.okcdn.ru/cmaf/7465941011175/sig/pJfcnALbZ-s/expires/1736012567077/srcIp/13.201.97.130/urls/185.226.53.94/clientType/13/srcAg/CHROME/mid/9161388141543/get/hls_9161388141543.yi5Gc1pbmz0.m3u8",
   12:"https://m118753.protect-cdn.net/live/m1-index.m3u8",
+  13:"https://vkvsd14.okcdn.ru/cmaf/7570831313639/sig/fAyWMToV434/expires/1736015574353/srcIp/3.110.95.242/urls/45.136.20.60/clientType/13/srcAg/CHROME/mid/9239821364199/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
 };
