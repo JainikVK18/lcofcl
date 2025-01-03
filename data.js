@@ -8,8 +8,7 @@ const m3u8Links = {
   7: "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m10_241224/master.m3u8",
   8: "https://example.com/path-to-m3u82.m3u8",
   9: "https://example.com/path-to-m3u81.m3u8",
-  10: "https://vkvsd14.okcdn.ru/cmaf/7570831313639/sig/2jttp-qrPhw/srcIp/65.2.31.89/urls/45.136.20.60/expires/1736311968382/clientType/13/srcAg/CHROME/fromCache/1/mid/9239821364199/id/7570831313639/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
-  11:"https://vkvsd14.okcdn.ru/cmaf/7517976988391/sig/55r6yQdd0yw/expires/1736011005660/srcIp/13.127.152.182/urls/185.226.53.65/clientType/13/srcAg/CHROME/mid/9200744410087/get/hls_9200744410087.GYAkhiUddgo.m3u8",
-  12:"https://vkvsd55.okcdn.ru/cmaf/7465941011175/sig/uvJeXZhUciA/srcIp/13.201.182.224/urls/45.136.21.63/expires/1735856029357/clientType/13/srcAg/CHROME/fromCache/1/mid/9161388141543/id/7465941011175/get/hls_9161388141543.yi5Gc1pbmz0.m3u8",
-  13:"https://m118753.protect-cdn.net/live/m1-index.m3u8",
+  10:"https://vkvsd14.okcdn.ru/cmaf/7517976988391/sig/55r6yQdd0yw/expires/1736011005660/srcIp/13.127.152.182/urls/185.226.53.65/clientType/13/srcAg/CHROME/mid/9200744410087/get/hls_9200744410087.GYAkhiUddgo.m3u8",
+  11:"https://vkvsd55.okcdn.ru/cmaf/7465941011175/sig/uvJeXZhUciA/srcIp/13.201.182.224/urls/45.136.21.63/expires/1735856029357/clientType/13/srcAg/CHROME/fromCache/1/mid/9161388141543/id/7465941011175/get/hls_9161388141543.yi5Gc1pbmz0.m3u8",
+  12:"https://m118753.protect-cdn.net/live/m1-index.m3u8",
 };
