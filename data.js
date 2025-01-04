@@ -9,7 +9,7 @@ const m3u8Links = {
   8: "https://example.com/path-to-m3u82.m3u8",
   9: "https://example.com/path-to-m3u81.m3u8",
   10:"https://vkvsd55.okcdn.ru/cmaf/7517976988391/sig/Dr7S_iddJ6M/expires/1736101078125/srcIp/13.235.57.14/urls/45.136.22.21/clientType/13/srcAg/CHROME/mid/9200744410087/get/hls_9200744410087.GYAkhiUddgo.m3u8",
-  11:"https://vkvsd63.okcdn.ru/cmaf/7465941011175/sig/pJfcnALbZ-s/expires/1736012567077/srcIp/13.201.97.130/urls/185.226.53.94/clientType/13/srcAg/CHROME/mid/9161388141543/get/hls_9161388141543.yi5Gc1pbmz0.m3u8",
+  11:"https://vkvsd63.okcdn.ru/cmaf/7465941011175/sig/Kg99tNSvIvw/expires/1736101061943/srcIp/43.205.237.226/urls/185.226.53.94/clientType/13/srcAg/CHROME/mid/9161388141543/get/hls_9161388141543.yi5Gc1pbmz0.m3u8",
   12:"https://m118753.protect-cdn.net/live/m1-index.m3u8",
   13:"https://vkvsd14.okcdn.ru/cmaf/7570831313639/sig/fAyWMToV434/expires/1736015574353/srcIp/3.110.95.242/urls/45.136.20.60/clientType/13/srcAg/CHROME/mid/9239821364199/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
 };
