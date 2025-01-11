@@ -13,5 +13,5 @@ const m3u8Links = {
   12:"https://m118753.protect-cdn.net/live/m1-index.m3u8",
   13:"https://vkvsd14.okcdn.ru/cmaf/7570831313639/sig/wRHGE3n8umQ/srcIp/65.2.4.154/urls/45.136.20.60/expires/1736491151769/clientType/13/srcAg/CHROME/fromCache/1/mid/9239821364199/id/7570831313639/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
   14:"https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
-  15:"https://cx55.xyz/UK_SKY_SPORTS_CRICKET/tracks-v1a1/mono.ts.m3u8?token=1757f72468eb4b5b2edc0d5c3da03fa0",
+  15:"https://cx55.xyz/UK_SKY_SPORTS_CRICKET/tracks-v1a1/mono.ts.m3u8?token=07b2f7da711617663bae9ebb34face60",
 };
