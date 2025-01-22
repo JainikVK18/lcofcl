@@ -14,4 +14,5 @@ const m3u8Links = {
   13:"https://vkvsd14.okcdn.ru/cmaf/7570831313639/sig/wRHGE3n8umQ/srcIp/65.2.4.154/urls/45.136.20.60/expires/1736491151769/clientType/13/srcAg/CHROME/fromCache/1/mid/9239821364199/id/7570831313639/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
   14:"https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
   15:"https://dai.google.com/ssai/event/8KIoX4OgSfeBVFyynQhRiw/master.m3u8",
+  16:"https://vkvsd14.okcdn.ru/hls/7833078139436.m3u8/sig/yU9AeyOIrWE/srcIp/152.59.157.192/urls/45.136.22.89/expires/1738012805083/clientType/13/srcAg/CHROME/fromCache/1/mid/9233939901228/id/7833078139436/video.m3u8",
 };
