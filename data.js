@@ -14,5 +14,5 @@ const m3u8Links = {
   13:"https://vkvsd14.okcdn.ru/cmaf/7570831313639/sig/wRHGE3n8umQ/srcIp/65.2.4.154/urls/45.136.20.60/expires/1736491151769/clientType/13/srcAg/CHROME/fromCache/1/mid/9239821364199/id/7570831313639/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
   14:"https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
   15:"https://dai.google.com/ssai/event/8KIoX4OgSfeBVFyynQhRiw/master.m3u8",
-  16:"https://1a-1791.com/live/gke17oc4/slot-139/awfk-lsbz/chunklist_DVR.m3u8",
+  16:"https://vkvsd55.okcdn.ru/cmaf/7570831313639/sig/RZ9JFwqoNao/srcIp/13.201.187.28/urls/45.136.20.89/expires/1738530679300/clientType/13/srcAg/CHROME/fromCache/1/mid/9239821364199/id/7570831313639/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
 };
