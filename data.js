@@ -8,11 +8,5 @@ const m3u8Links = {
   7: "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m10_241224/master.m3u8",
   8: "https://example.com/path-to-m3u82.m3u8",
   9: "https://example.com/path-to-m3u81.m3u8",
-  10:"https://vkvsd55.okcdn.ru/cmaf/7517976988391/sig/Dr7S_iddJ6M/expires/1736101078125/srcIp/13.235.57.14/urls/45.136.22.21/clientType/13/srcAg/CHROME/mid/9200744410087/get/hls_9200744410087.GYAkhiUddgo.m3u8",
-  11:"https://vkvsd14.okcdn.ru/cmaf/7609346427623/sig/EbEqWUSAbVc/srcIp/13.235.57.212/urls/45.136.22.86/expires/1736982490027/clientType/13/srcAg/CHROME/fromCache/1/mid/9268228402151/id/7609346427623/get/hls_9268228402151.5KKT1O7VepA.m3u8",
-  12:"https://m118753.protect-cdn.net/live/m1-index.m3u8",
-  13:"https://vkvsd14.okcdn.ru/cmaf/7570831313639/sig/wRHGE3n8umQ/srcIp/65.2.4.154/urls/45.136.20.60/expires/1736491151769/clientType/13/srcAg/CHROME/fromCache/1/mid/9239821364199/id/7570831313639/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
-  14:"https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
-  15:"https://dai.google.com/ssai/event/8KIoX4OgSfeBVFyynQhRiw/master.m3u8",
-  16:"https://vkvsd55.okcdn.ru/cmaf/7570831313639/sig/RZ9JFwqoNao/srcIp/13.201.187.28/urls/45.136.20.89/expires/1738530679300/clientType/13/srcAg/CHROME/fromCache/1/mid/9239821364199/id/7570831313639/get/hls_9239821364199.vZSE3S7XUTE.m3u8",
-};
+  10:"https://cx55.xyz/UK_SKY_SPORTS_CRICKET/tracks-v1a1/mono.ts.m3u8?token=0c212cd056dc5c0ecd171b719721014f",
+  11:"https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8",
