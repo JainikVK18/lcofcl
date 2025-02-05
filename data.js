@@ -8,5 +8,7 @@ const m3u8Links = {
   7: "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m10_241224/master.m3u8",
   8: "https://example.com/path-to-m3u82.m3u8",
   9: "https://example.com/path-to-m3u81.m3u8",
- 10:"https://cx55.xyz/UK_SKY_SPORTS_CRICKET/tracks-v1a1/mono.ts.m3u8?token=0c212cd056dc5c0ecd171b719721014f",
- 11:"https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8",
+  10: "https://example.com/path-to-m3u82.m3u8",
+  11:"https://cx55.xyz/UK_SKY_SPORTS_CRICKET/tracks-v1a1/mono.ts.m3u8?token=0c212cd056dc5c0ecd171b719721014f",
+  12:"https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8",
+};
