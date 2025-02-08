@@ -11,4 +11,5 @@ const m3u8Links = {
   10: "https://example.com/path-to-m3u82.m3u8",
   11:"https://cx55.xyz/UK_SKY_SPORTS_CRICKET/tracks-v1a1/mono.ts.m3u8?token=0c212cd056dc5c0ecd171b719721014f",
   12:"https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8",
+  13:"https://cx53.xyz/SPORTS_ASTRO_CRICKET/tracks-v1a1/mono.ts.m3u8?token=87636a703e663b6a100588e7ad306453",
 };
