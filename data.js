@@ -13,4 +13,5 @@ const m3u8Links = {
   12:"https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8",
   13:"https://cx53.xyz/SPORTS_ASTRO_CRICKET/tracks-v1a1/mono.ts.m3u8?token=87636a703e663b6a100588e7ad306453",
   14:"https://nix1-dc4-cdnnew.iosplayer.ru/nix1-dc4-cdn/mono3/mono.m3u8?token=none",
+  15:"https://wowowoy.com/live/v1/7eToXZmJiFFeEZ8QvdWrfYHL+9bnJ0h+zZDoW1Qsp-tuF64W6yvI7X08aBNVHiQj/master.m3u8",
 };
