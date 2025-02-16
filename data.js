@@ -14,4 +14,5 @@ const m3u8Links = {
   13:"https://cx53.xyz/SPORTS_ASTRO_CRICKET/tracks-v1a1/mono.ts.m3u8?token=87636a703e663b6a100588e7ad306453",
   14:"https://nix1-dc4-cdnnew.iosplayer.ru/nix1-dc4-cdn/mono3/mono.m3u8?token=none",
   15:"https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1739725244~acl=/*~id=6dec5a9aa5b232d282ea72482cc9e83c~data=hdntl~hmac=c35376a3f6c4adf8a2f7fca15ae2ae22f772c1897be6166c6c4e62a6ad605974/index.m3u8",
+  16:"https://1a-1791.com/live/za4hy30t/slot-17/0k7d-7luw/chunklist.m3u8",
 };
