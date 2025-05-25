@@ -4,38 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Telegram-Live-Cric-Hd</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        html, body {
+            width: 100%;
+            height: 100%;
+            background-color: #121212;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
 </head>
+
 <body>
-    <script>
-        
+    <div class="iframe-wrapper">
+        <iframe id="contentFrame"></iframe>
+    </div>
 
-        // Define your M3U8 links
-        const streams = {
-            "m1": "https://live.tsports.com/mobile_hls/tsports_live_2/index.m3u8",
-            "m2": "hi",
-            "m3": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_110225/master.m3u8",
-            "m4": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_120225/master.m3u8",
-            "5": "https://example.com/link5.m3u8",
-            "6": "https://example.com/link6.m3u8"
-        };
-
-        // Function to get URL parameter
-        function getUrlParameter(name) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(name);
-        }
-
-        // Get stream ID from URL
-        const streamId = getUrlParameter("id");
-
-        // Check if the ID exists and redirect to the URL
-        if (streams[streamId]) {
-            const redirectUrl = https://livecrichdm3u8player.pages.dev/?dtv=${encodeURIComponent(streams[streamId])};
-            window.location.href = redirectUrl;  // Redirects the user
-        } else {
-            alert("Invalid ID or no stream found.");
-        }
-    </script>
-
+    <script src="https://livecrichdtv.pages.dev/c2iframe.js"></script> 
 </body>
 </html>
